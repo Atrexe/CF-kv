@@ -203,10 +203,7 @@ function configHTML(域名, token) {
 		  <title>CF-Workers-TEXT2KV</title>
 		</head>
 		<body>
-			<p align='center'><img src='https://ansoncloud8.github.io/logo.png' alt='图片描述' style='margin-bottom: 20px;'>
-			<b style='font-size: 15px;'>欢迎如果您发现这个项目很好用，请查看我们的 GitHub 项目给我一个star：</b>
-			<a href='https://github.com/ansoncloud8/am-tunnel' target='_blank'>am-tunnel</a>
-			<iframe src='https://ghbtns.com/github-btn.html?user=ansoncloud8&repo=am-tunnel&type=star&count=true&size=large' frameborder='0' scrolling='0' width='170' height='30' title='GitHub'></iframe>
+			<p align='center'>
 	
 		  <h1 class="centered">CF-Workers-TEXT2KV 配置信息</h1>
 		  <p class="centered">
